@@ -23,6 +23,6 @@ public interface APIRestService {
     @GET("cds")
     Call<ArrayList<Cd>> obtenerCdTitulo(@Query("title") String titulo);
 
-    @GET("country/{id_country}")
+    @GET("countries/{id_country}")
     Call<Country> obtenerCountry(@Path("id_country") String id);
 }

@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AppCatalogoCDs</string>
+    <string name="app_name">Catalogo de CDs</string>
+    <string name="tv_titulo_main">Lista de CDs</string>
 </resources>
